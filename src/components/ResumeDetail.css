@@ -1,0 +1,61 @@
+/* for sub title */
+.h2_resume {
+  border-bottom: 4px double coral;
+  width: 100%;
+  text-align: center;
+  text-shadow: 2px 5px 8px #777777;
+}
+
+/* for tables */
+table {
+  border-collapse: separate;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5rem;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+.td_ks_1,
+.td_ts_1 {
+  text-align: right;
+  width: 50%;
+  padding-right: 3rem;
+}
+.td_ks_2,
+.td_ts_2 {
+  text-align: left;
+  width: 50%;
+  padding-left: 3rem;
+}
+
+span {
+  color: blue;
+  font-style: bold;
+}
+
+/* for sub-sub title */
+.h4_resume {
+  text-align: center;
+  border-bottom: 1px double coral;
+}
+
+.h5_resume {
+  text-align: left;
+  border-bottom: 1px double coral;
+}
+
+.h6_resume {
+  text-align: left;
+  border-bottom: 1px double coral;
+}
+
+.td_ed_1,
+.td_ed_2 {
+  width: 55%;
+  vertical-align: top;
+  text-align: center;
+}
