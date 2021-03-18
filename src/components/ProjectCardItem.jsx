@@ -12,6 +12,14 @@ function ProjectCardItem(props) {
           <div className="cards__item__info">
             <h4 className="cards__item__header_text">
               <span>{"\u26A1"} </span>What I utilized
+              <button
+                className="cards__item__button"
+                onClick={() => {
+                  window.open(props.git_path);
+                }}
+              >
+                &nbsp;GitHub&nbsp;
+              </button>
             </h4>
             <h5 className="cards__item__text">{props.text1}</h5>
             <br />

@@ -147,13 +147,13 @@ function Footer() {
               <i className="fab fa-youtube"></i>
             </a>
             <a
-              href="https://twitter.com"
-              className="social-icon-link twitter"
+              href="https://github.com/NeoLee-0435748/neo-portfolio-2021"
+              className="social-icon-link github"
               target="_blank"
-              aria-label="Twitter"
+              aria-label="GitHub"
               rel="noreferrer"
             >
-              <i className="fab fa-twitter"></i>
+              <i className="fab fa-github"></i>
             </a>
             <a
               href="https://www.linkedin.com/in/neo-lee/"

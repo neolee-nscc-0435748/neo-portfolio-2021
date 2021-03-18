@@ -86,7 +86,7 @@ h1 {
 }
 
 .cards__item__img:hover {
-  transform: scale(0.9);
+  transform: scale(0.95);
 }
 
 .cards__item__info {
@@ -97,6 +97,16 @@ h1 {
   color: #252e48;
   font-size: 18px;
   line-height: 24px;
+}
+
+.cards__item__button {
+  float: right;
+  padding: 4px 10px;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  color: #fff;
+  background-color: lightseagreen;
 }
 
 @media only screen and (min-width: 1200px) {
