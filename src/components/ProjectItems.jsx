@@ -50,7 +50,7 @@ function ProjectItems() {
             <ProjectCardItem
               src={img_laravel}
               text1="Laravel, PHP, Axios, Bootstrap, MySql"
-              text2="Develop a web service using React with Express and how to combine front-end and back-end services"
+              text2="Develop a web service using Laravel with Bootstrap and how to present web page using server side language"
               label="Laravel"
               path="https://w0435748-neosocialmediafeed.herokuapp.com/"
             />
