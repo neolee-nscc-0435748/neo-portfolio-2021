@@ -107,6 +107,14 @@ function Footer() {
             <a href="https://ionicframework.com/" target="_blank" aria-label="Ionic" rel="noreferrer">
               Ionic
             </a>
+            <a
+              href="https://neolee-0435748.github.io/"
+              target="_blank"
+              aria-label="Previous Portfolio"
+              rel="noreferrer"
+            >
+              Prev Portfolio
+            </a>
           </div>
         </div>
       </div>
