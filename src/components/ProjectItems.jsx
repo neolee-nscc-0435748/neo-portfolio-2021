@@ -38,7 +38,7 @@ function ProjectItems() {
               text1="React, React Hooks, Firebase, Invision, Teamwork, Scrum"
               text2="Develop a web chat service using React with Firebase and how to co-operate with the team members"
               label="Capstone Project"
-              path="https://w0435748-webd3100-nscccoursemapapp.azurewebsites.net/Courses"
+              path="https://nscc-chat.web.app/signin"
               git_path="https://github.com/benshewan/Capstone-Project"
             />
             <ProjectCardItem
