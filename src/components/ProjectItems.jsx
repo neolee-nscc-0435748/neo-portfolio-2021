@@ -25,10 +25,10 @@ function ProjectItems() {
             />
             <ProjectCardItem
               src={img_netcore}
-              text1=".Net Core, Azure Severless functions, SQL Server, Azure cloud service"
-              text2="Develop a web service using .Net Core with SQL Server"
+              text1=".Net Core, Azure Severless functions, SQL Server->MySql, Azure cloud service->Heroku"
+              text2="Develop a web service using .Net Core with My SQL"
               label=".Net Core"
-              path="https://w0435748-webd3100-nscccoursemapapp.azurewebsites.net/Courses"
+              path="https://nscc-course-map-with-csharp.herokuapp.com/Courses"
               git_path="https://github.com/NeoLee-0435748/nscccoursemap-dotnetcore"
             />
           </ul>
