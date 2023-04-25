@@ -17,10 +17,10 @@ function ProjectItems() {
           <ul className="cards__items">
             <ProjectCardItem
               src={img_ionic}
-              text1="Ionic, React, API Documentation, Heroku"
+              text1="Ionic, React, API Documentation, Render"
               text2="Develop a mobile app using Ionic with React and how to use serverless functions"
               label="Ionic with React"
-              path="https://nscc-course-map-with-ionic.herokuapp.com/"
+              path="https://nscc-course-map-with-ionic.onrender.com/"
               git_path="https://github.com/NeoLee-0435748/nscc-course-map-with-ionic"
             />
             <ProjectCardItem
