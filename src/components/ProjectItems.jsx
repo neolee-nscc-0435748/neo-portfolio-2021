@@ -20,7 +20,7 @@ function ProjectItems() {
               text1="Ionic, React, API Documentation, Render"
               text2="Develop a mobile app using Ionic with React and how to use serverless functions"
               label="Ionic with React"
-              path="https://nscc-course-map-with-ionic.onrender.com/"
+              path="https://course-map.neoapps.ca/"
               git_path="https://github.com/NeoLee-0435748/nscc-course-map-with-ionic"
             />
             <ProjectCardItem
@@ -46,7 +46,7 @@ function ProjectItems() {
               text1="React, Express, MongoDB, RESTful API, Postman"
               text2="Develop a web service using React with Express and how to combine front-end and back-end services"
               label="Full Stack"
-              path="https://w0435748-fullstackapp.herokuapp.com/"
+              path="https://fullstack.neoapps.ca/"
               git_path="https://github.com/NeoLee-0435748/FullStackApp"
             />
           </ul>
@@ -56,7 +56,7 @@ function ProjectItems() {
               text1="Laravel, PHP, Axios, Bootstrap, MySql"
               text2="Develop a web service using Laravel with Bootstrap and how to present web page using server side language"
               label="Laravel"
-              path="https://w0435748-neosocialmediafeed.herokuapp.com/"
+              path="https://socialmediafeed.neoapps.ca/"
               git_path="https://github.com/NeoLee-0435748/SocialMediaFeed"
             />
           </ul>
