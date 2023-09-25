@@ -5,7 +5,7 @@ function ProjectCardItem(props) {
   return (
     <>
       <li className="cards__item">
-        <Link className="cards__item__link" to={{ pathname: props.path }} target="_blank">
+        <a className="cards__item__link" href={ props.path } target="_blank">
           <figure className="cards__item__pic-wrap" data-category={props.label}>
             <img src={props.src} alt="Travel" className="cards__item__img" />
           </figure>
@@ -28,7 +28,7 @@ function ProjectCardItem(props) {
             </h4>
             <h5 className="cards__item__text">{props.text2}</h5>
           </div>
-        </Link>
+        </a>
       </li>
     </>
   );
